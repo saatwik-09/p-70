@@ -1,0 +1,41 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+
+#contact{
+    text-align: center;
+    background-color: grey;
+}
+
+#achivement{
+    font-size: 30px;
+}
+
+#library{
+    
+    height: 350px;
+    width: 350px;
+}
+
+h2{
+    background-color: deepskyblue;
+}
+
+#swimming{
+    font-size: 30px;
+    
+}
